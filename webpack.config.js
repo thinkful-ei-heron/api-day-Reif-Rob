@@ -1,4 +1,5 @@
 // webpack.config.js
+var webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
